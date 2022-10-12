@@ -1,0 +1,19 @@
+.contato{
+  background-color: #263252;
+  color: #FFFF;
+  height: 450px;
+  align-items: center;
+  font-size: 30px;
+
+}
+
+.form-group{
+  margin: 6px;
+
+}
+
+.form-control{
+  text-align: center;
+  color: #454545;
+  font-size: 16px;
+}
